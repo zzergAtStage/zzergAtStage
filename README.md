@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Sergio Brü!
+I'm a full-stack developer with a strong background in **backend programming** using Java and Spring Boot. While I love the frontend side of things, my expertise lies in building robust and scalable backend solutions. I've had experience working on Java EE applications and am always eager to learn new technologies.
 <!--
 **zzergAtStage/zzergAtStage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 My Github Stats
+<div display="flex">
+<a href="https://github.com/zzergAtStage">
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zzergAtStage&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=zzergAtStage&layout=compact&langs_count=8&theme=react" alt="Sergio Brü" />
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zzergAtStage&layout=compact&langs_count=8&theme=react"/>
+</a>
+</div>
