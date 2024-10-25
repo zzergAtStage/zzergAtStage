@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Sergio Brü!
-I'm a full-stack developer with a strong background in **backend programming** using Java and Spring Boot. While I love the frontend side of things, my expertise lies in building robust and scalable backend solutions. I've had experience working on Java EE applications and am always eager to learn new technologies.
+I'm a full-stack developer with a strong background in **backend programming** using Java and Spring Boot, PL SQL and Oracle DB. While I love the frontend side of things, my expertise lies in building robust and scalable backend solutions. I've had experience working on Java EE applications and am always eager to learn new technologies.
 <!--
 **zzergAtStage/zzergAtStage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
