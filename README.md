@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 -->
 ## 📊 My Github Stats
 <div display="flex">
-<a href="https://github.com/zzergAtStage">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zzergAtStage&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=zzergAtStage&layout=compact&langs_count=8&theme=react" alt="Sergio Brü" />
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zzergAtStage&layout=compact&langs_count=8&theme=react"/>
-</a>
+  <a href="https://github.com/zzergAtStage">
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zzergAtStage&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zzergAtStage&layout=compact&langs_count=8&theme=react"/>
+  </a>
 </div>
