@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 My Github Stats
-<div display="flex" justify-content="space-between" width="250em">
-  <a flex-grow="1" href="https://github.com/zzergAtStage">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=zzergAtStage&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=zzergAtStage&theme=vue-dark&hide_border=false"/>
-  </a>
-  <a flex-grow="auto" href="https://github.com/zzergAtStage">
-    <img flex-grow="auto" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzergAtStage&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
-  </a>
+<div>
+   <a href="https://github.com/zzergAtStage">
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zzergAtStage&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark"/>
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zzergAtStage&layout=compact&langs_count=8&theme=vue-dark"/>
+   </a>
 </div>
